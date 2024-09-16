@@ -9,7 +9,7 @@ About what I do:
 - **Web Development**: Making functional, interactive webs since 2021.
 - **App Development**: Crafting functional, responsive applications since 2018.
 
-**Tech Stack:**
+## Tech Stack:
 
 | Game Development  | Augmented & Virtual Reality | Web Development | App Development |
 | ------------- | ------------- |  ------------- |  ------------- |
@@ -22,6 +22,26 @@ About what I do:
 
 
 I’m always looking for new challenges and ways to grow, so feel free to connect or explore my repositories!
+
+
+## My projects:
+
+
+| GHOST HUNTERS| Augmented & Virtual Reality | Web Development | App Development |
+| ------------- | ------------- |  ------------- |  ------------- |
+| aqui va  foto | aqui va  foto |  aqui va  foto | aqui va  foto  |
+| la tecnología | la tecnología |  la tecnología |  la tecnología |
+
+| **Project Name**    | **Project Name**    | **Project Name**    | **Project Name**    |
+|---------------------|---------------------|---------------------|---------------------|
+| <img src="https://via.placeholder.com/300" width="300"> |<img src="https://via.placeholder.com/300" width="300"> |<img src="https://via.placeholder.com/300" width="300"> |<img src="https://via.placeholder.com/300" width="300"> |
+| This is a description of the project. It explains the key details and purpose. |This is a description of the project. It explains the key details and purpose. |This is a description of the project. It explains the key details and purpose. |This is a description of the project. It explains the key details and purpose. |
+
+| Project Name  | Project Image  | Description  |
+|---------------|----------------|--------------|
+| Project 1     | <img src="https://via.placeholder.com/150" width="250"> | This is a short description of project 1. |
+| Project 2     | <img src="https://via.placeholder.com/150" width="150"> | This is a short description of project 2. |
+
 
 <!-- Add the photos of the technologies or examples and redirect to itch.io
 
