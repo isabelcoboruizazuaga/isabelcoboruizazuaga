@@ -11,6 +11,21 @@ About what I do:
 
 **Tech Stack:**
 
+| Game Development  | Augmented & Virtual Reality | Web Development | App Development |
+| ------------- | ------------- |  ------------- |  ------------- |
+| ![Unity](https://img.shields.io/badge/Unity-4E5F7D?style=for-the-badge&logo=unity&logoColor=white)   | ![Meta Quest](https://img.shields.io/badge/Meta_Quest-6C3483?style=for-the-badge&logo=oculus&logoColor=white) |![Angular](https://img.shields.io/badge/Angular-ba2326?style=for-the-badge&logo=Angular&logoColor=white)  ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white) ![Vue](https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white)  |  ![Android Studio](https://img.shields.io/badge/Android_Studio-125c33?style=for-the-badge&logo=AndroidStudio&logoColor=white) |
+| ![Godot](https://img.shields.io/badge/Godot-2E86C1?style=for-the-badge&logo=godot-engine&logoColor=white)  | ![Vuforia](https://img.shields.io/badge/Vuforia-50C878?style=for-the-badge&logo=vuforia&logoColor=white) |![JavaScript](https://img.shields.io/badge/JavaScript-66641d?style=for-the-badge&logo=JavaScript&logoColor=white)   ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white)  | ![Java](https://img.shields.io/badge/Java-ba3232?style=for-the-badge&logo=Java&logoColor=white)  |
+| ![C#](https://img.shields.io/badge/C%23-d66dcf?style=for-the-badge&logo=&logoColor=white)  | ![AR Foundation](https://img.shields.io/badge/AR_Foundation-ab3042?style=for-the-badge&logo=&logoColor=white) | ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white)  ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=white) | ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white) |
+| ![GDScript#](https://img.shields.io/badge/GDScript-4550b5?style=for-the-badge&logo=&logoColor=white)  | ![Unity XR](https://img.shields.io/badge/Unity_XR-ab8630?style=for-the-badge&logo=&logoColor=white) ![Meta XR](https://img.shields.io/badge/Meta_XR-2134c4?style=for-the-badge&logo=&logoColor=white)  |  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white) |   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)|
+
+
+
+
+I’m always looking for new challenges and ways to grow, so feel free to connect or explore my repositories!
+
+<!-- Add the photos of the technologies or examples and redirect to itch.io
+
+
 **Game Development:**
 - Unity, Godot
 - C#, GDScript
@@ -28,32 +43,7 @@ About what I do:
 **App Development:**
 - Android Studio (Java, Kotlin)
 - Python
-
-I’m always looking for new challenges and ways to grow, so feel free to connect or explore my repositories!
-| Game Development  | Augmented & Virtual Reality | Web Development |
-| ------------- | ------------- |  ------------- |
-| ![Unity](https://img.shields.io/badge/Unity-4E5F7D?style=for-the-badge&logo=unity&logoColor=white)  | ![Meta Quest](https://img.shields.io/badge/Meta_Quest-6C3483?style=for-the-badge&logo=oculus&logoColor=white) | ![Angular](https://img.shields.io/badge/Angular-ba2326?style=for-the-badge&logo=Angular&logoColor=white)  |
-| ![Godot](https://img.shields.io/badge/Godot-2E86C1?style=for-the-badge&logo=godot-engine&logoColor=white)  | ![Vuforia](https://img.shields.io/badge/Vuforia-50C878?style=for-the-badge&logo=vuforia&logoColor=white)  | ![React](https://img.shields.io/badge/React-29a2ba?style=for-the-badge&logo=React&logoColor=white)  |
-| ![C#](https://img.shields.io/badge/C%23-d66dcf?style=for-the-badge&logo=&logoColor=white)  | ![AR Foundation](https://img.shields.io/badge/AR_Foundation-ab3042?style=for-the-badge&logo=&logoColor=white) | ![Vue](https://img.shields.io/badge/Vue-15664a?style=for-the-badge&logo=Vue.js&logoColor=white)  |
-| ![GDScript#](https://img.shields.io/badge/GDScript-4550b5?style=for-the-badge&logo=&logoColor=white)  | ![Unity XR](https://img.shields.io/badge/Unity_XR-ab8630?style=for-the-badge&logo=&logoColor=white) ![Meta XR](https://img.shields.io/badge/Meta_XR-2134c4?style=for-the-badge&logo=&logoColor=white)  |
-
-
-
-<!-- |![Custom Logo](https://global.discourse-cdn.com/business7/uploads/vuforia/original/1X/1bd39d7b17a9c4e9732ca6675abe1036462a368a.png) ![Vuforia](https://img.shields.io/badge/Vuforia-50C878?style=for-the-badge&logo=vuforia&logoColor=white)  | Content Cell  |
-
-
-<img src="https://img.shields.io/badge/Vuforia-50C878?style=for-the-badge&logo=vuforia&logoColor=white" alt="Custom Badge" style="display: inline-block;">
-<img src="https://global.discourse-cdn.com/business7/uploads/vuforia/original/1X/1bd39d7b17a9c4e9732ca6675abe1036462a368a.png" alt="Custom Logo" style="display: inline-block; width: 50px; height: 50px;">
-
-
-<img src="https://img.shields.io/badge/Custom_Badge-000000?style=for-the-badge" alt="Custom Badge" style="display: inline-block;">
-<img src="https://path-to-your-custom-logo-image.png" alt="Custom Logo" style="display: inline-block; width: 50px; height: 50px;">
-
 -->
-
-
-
-<!-- Add the photos of the technologies or examples and redirect to itch.io -->
 
 
 <!--
@@ -71,4 +61,3 @@ ch me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Uploading unity.svg…]()
