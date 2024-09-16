@@ -31,7 +31,7 @@ About what I do:
 I’m always looking for new challenges and ways to grow, so feel free to connect or explore my repositories!
 | First Header  | Second Header |
 | ------------- | ------------- |
-| ![Unity](https://img.shields.io/badge/Unity-4E5F7D?style=for-the-badge&logo=unity&logoColor=white)  | Content Cell  |
+| ![](https://img.shields.io/badge/Unity-4E5F7D?style=for-the-badge&logo=unity&logoColor=white)  | Content Cell  |
 | Content Cell  | Content Cell  |
 
 
