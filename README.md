@@ -35,6 +35,8 @@ I’m always looking for new challenges and ways to grow, so feel free to connec
 | ![Godot](https://img.shields.io/badge/Godot-2E86C1?style=for-the-badge&logo=godot-engine&logoColor=white)  | Content Cell  |
 | ![Meta Quest](https://img.shields.io/badge/Meta_Quest-6C3483?style=for-the-badge&logo=oculus&logoColor=white)  | Content Cell  |
 | ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c&logoColor=white&logo=sharp&logoColor=white)  | Content Cell  |
+| ![C#](https://img.shields.io/badge/C-239120?style=for-the-badge&logo=c&logoColor=white&logo=sharp&logoColor=white)  | Content Cell  |
+| ![C#](https://img.shields.io/badge/sharp-239120?style=for-the-badge&logo=sharp&logoColor=white)  | Content Cell  |
 | ![GDScript](https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)  | Content Cell  |
 
 
