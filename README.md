@@ -1,4 +1,4 @@
-### Hi there! 👋
+## Hi there! 👋
 
 I'm Isa, a passionate videogame programmer! 🎮
 
@@ -19,31 +19,74 @@ About what I do:
 | ![GDScript#](https://img.shields.io/badge/GDScript-4550b5?style=for-the-badge&logo=&logoColor=white)  | ![Unity XR](https://img.shields.io/badge/Unity_XR-ab8630?style=for-the-badge&logo=&logoColor=white) ![Meta XR](https://img.shields.io/badge/Meta_XR-2134c4?style=for-the-badge&logo=&logoColor=white)  |  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white) |   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)|
 
 
-
-
 I’m always looking for new challenges and ways to grow, so feel free to connect or explore my repositories!
 
 
-## My projects:
+<details open>
+<summary> <h2>Featured videogame projects:</h2></summary>
 
-
-| GHOST HUNTERS| Augmented & Virtual Reality | Web Development | App Development |
+| GHOST HUNTERS| TERRAIN GENERATOR | VR ESCAPE ROOM | WANTED |
 | ------------- | ------------- |  ------------- |  ------------- |
-| aqui va  foto | aqui va  foto |  aqui va  foto | aqui va  foto  |
-| la tecnología | la tecnología |  la tecnología |  la tecnología |
+| [<img src="Images/GhostHunters.png" width="300">](https://github.com/isabelcoboruizazuaga/GhostHunters)| [<img src="Images/TerrainGenerator.png" width="300">](https://github.com/isabelcoboruizazuaga/TerrainGenerator) |[<img src="https://via.placeholder.com/300" width="300">](https://github.com/isabelcoboruizazuaga) | [<img src="Images/Wanted.png" width="300">](https://github.com/isabelcoboruizazuaga/tagGame)  |
+| 3D <br> Character Controller <br> Game pause <br> Inventory and shop <br> Unity & C# | 3D <br> Terrain Painting <br> Terrain Generation <br> Unity & C# |  VR <br> Unity XR <br> Meta Integration <br> Unity & C# |  3D <br> AI $ Ai State Machines <br> NavMesh <br> Unity & C#  |
+| A small shooter game whose objective is to free a once peaceful village from the cute but dangerous ghosts that inhabit it now. <br>Destroy ghosts and use the money to buy weapons, bullets, and health items to see how long you can survive. | With this project you can generate different simple landscapes playing with terrain detail, seed and water height.<br>Try multiple settings to see how the terrain turns out |  ¡¡¡¡¡¡¡TEMPORARY PLACEHOLDER!!!! |  Small game about taging a NPC in a group of lookalikes. Find the wanted NPC and tag it before time ends!<br>There are 4 difficulty levels, try and get the max points in hell mode competying against time and crazy bumps of the one hundred NPCs. |
+</details>
 
-| **Project Name**    | **Project Name**    | **Project Name**    | **Project Name**    |
+<details open>
+<summary> <h2>Other projects:</h2></summary>
+  </details>
+<!--
+<details open>
+<summary>Game Description</summary>
+Blavlvllvlalvl
+</details>
+
+| **GHOST HUNTERS**    | **Project Name**    | **Project Name**    | **Project Name**    |
 |---------------------|---------------------|---------------------|---------------------|
-| <img src="https://via.placeholder.com/300" width="300"> |<img src="https://via.placeholder.com/300" width="300"> |<img src="https://via.placeholder.com/300" width="300"> |<img src="https://via.placeholder.com/300" width="300"> |
-| This is a description of the project. It explains the key details and purpose. |This is a description of the project. It explains the key details and purpose. |This is a description of the project. It explains the key details and purpose. |This is a description of the project. It explains the key details and purpose. |
+| <img src="https://github.com/isabelcoboruizazuaga/isabelcoboruizazuaga/blob/bd892250d4247b96874f646d283dd2441ccce921/Images/GhostHunters.png" width="400"> |<img src="https://github.com/isabelcoboruizazuaga/isabelcoboruizazuaga/blob/460036705d9db388f52de37dc055b79c7d0e4ba3/Images/Wanted.png" width="400"> |<img src="https://via.placeholder.com/300" width="300" > |<img src="https://via.placeholder.com/300" width="300"> |
+| A small shooter game whose objective is to free a once peaceful village from the cute but dangerous ghosts that inhabit it now. <br>Destroy ghosts and use the money to buy weapons, bullets, and health items to see how long you can survive.  |Small game about taging a NPC in a group of lookalikes. Find the wanted NPC and tag it before time ends!<br>There are 4 difficulty levels, try and get the max points in hell mode competying against time and crazy bumps of the one hundred NPCs. |This is a description of the project. It explains the key details and purpose. |This is a description of the project. It explains the key details and purpose. |
 
+Ghost Hunters:
+[<img src="Images/GhostHunters.png" width="300">](https://github.com/isabelcoboruizazuaga/GhostHunters)
+
+Wanted:
+[<img src="Images/Wanted.png" width="300">](https://github.com/isabelcoboruizazuaga/tagGame)
+
+Terrain Generator:
+[<img src="Images/TerrainGenerator.png" width="300">](https://github.com/isabelcoboruizazuaga/TerrainGenerator)
+
+VR ScapeRoom: 
+[<img src="https://via.placeholder.com/300" width="300">](https://github.com/isabelcoboruizazuaga)
+
+-->
+<!--
 | Project Name  | Project Image  | Description  |
 |---------------|----------------|--------------|
 | Project 1     | <img src="https://via.placeholder.com/150" width="250"> | This is a short description of project 1. |
 | Project 2     | <img src="https://via.placeholder.com/150" width="150"> | This is a short description of project 2. |
+-->
 
 
 <!-- Add the photos of the technologies or examples and redirect to itch.io
+
+TO DO: ADD LINKS TO ITCH.IO AND MORE VISIBLE LINKT TO GITHUB
+
+TO ADD: 
+
+Estructura:
+Juego shooter
+Juego VR
+Juego Tag con IA
+Juego generacion de terreno
+
+Otros:
+Juego 2d
+Juego zombies
+Generación mazmorra 
+BuscaMinas
+Juego taxi
+
+Juego de VR
 
 
 **Game Development:**
