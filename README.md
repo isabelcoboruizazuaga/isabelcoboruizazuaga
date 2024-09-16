@@ -37,7 +37,12 @@ I’m always looking for new challenges and ways to grow, so feel free to connec
 | ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c&logoColor=white&logo=sharp&logoColor=white)  | Content Cell  |
 | ![C#](https://img.shields.io/badge/C-239120?style=for-the-badge&logo=c&logoColor=white&logo=sharp&logoColor=white)  | Content Cell  |
 | ![C#](https://img.shields.io/badge/sharp-239120?style=for-the-badge&logo=sharp&logoColor=white)  | Content Cell  |
+
 | ![C#](https://img.shields.io/badge/C-239120?style=for-the-badge&logo=C&logoColor=white)![C#](https://img.shields.io/badge/sharp-239120?style=for-the-badge&logo=sharp&logoColor=white)  | Content Cell  |
+
+
+| ![C#](https://img.shields.io/badge/239120?style=for-the-badge&logo=C&logoColor=white)![C#](https://img.shields.io/badge/sharp-239120?style=for-the-badge&logo=sharp&logoColor=white)  | Content Cell  |
+
 | ![GDScript](https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)  | Content Cell  |
 
 
