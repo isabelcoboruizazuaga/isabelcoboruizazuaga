@@ -10,6 +10,7 @@ About what I do:
 - **App Development**: Crafting functional, responsive applications since 2018.
 
 **Tech Stack:**
+
 **Game Development:**
 - Unity, Godot
 - C#, GDScript
@@ -29,21 +30,26 @@ About what I do:
 - Python
 
 I’m always looking for new challenges and ways to grow, so feel free to connect or explore my repositories!
-| Game Development  | Augmented & Virtual Reality |
-| ------------- | ------------- |
-| ![Unity](https://img.shields.io/badge/Unity-4E5F7D?style=for-the-badge&logo=unity&logoColor=white)  | Content Cell  |
-| ![Godot](https://img.shields.io/badge/Godot-2E86C1?style=for-the-badge&logo=godot-engine&logoColor=white)  | Content Cell  |
-| ![Meta Quest](https://img.shields.io/badge/Meta_Quest-6C3483?style=for-the-badge&logo=oculus&logoColor=white)  | Content Cell  |
-| ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c&logoColor=white&logo=sharp&logoColor=white)  | Content Cell  |
-| ![C#](https://img.shields.io/badge/C-239120?style=for-the-badge&logo=c&logoColor=white&logo=sharp&logoColor=white)  | Content Cell  |
-| ![C#](https://img.shields.io/badge/sharp-239120?style=for-the-badge&logo=sharp&logoColor=white)  | Content Cell  |
-
-| ![C#](https://img.shields.io/badge/C-239120?style=for-the-badge&logo=C&logoColor=white)![C#](https://img.shields.io/badge/sharp-239120?style=for-the-badge&logo=sharp&logoColor=white)  | Content Cell  |
+| Game Development  | Augmented & Virtual Reality | Web Development |
+| ------------- | ------------- |  ------------- |
+| ![Unity](https://img.shields.io/badge/Unity-4E5F7D?style=for-the-badge&logo=unity&logoColor=white)  | ![Meta Quest](https://img.shields.io/badge/Meta_Quest-6C3483?style=for-the-badge&logo=oculus&logoColor=white) | ![Angular](https://img.shields.io/badge/Angular-ba2326?style=for-the-badge&logo=Angular&logoColor=white)  |
+| ![Godot](https://img.shields.io/badge/Godot-2E86C1?style=for-the-badge&logo=godot-engine&logoColor=white)  | ![Vuforia](https://img.shields.io/badge/Vuforia-50C878?style=for-the-badge&logo=vuforia&logoColor=white)  | ![React](https://img.shields.io/badge/React-29a2ba?style=for-the-badge&logo=React&logoColor=white)  |
+| ![C#](https://img.shields.io/badge/C%23-d66dcf?style=for-the-badge&logo=&logoColor=white)  | ![AR Foundation](https://img.shields.io/badge/AR_Foundation-ab3042?style=for-the-badge&logo=&logoColor=white) | ![Vue](https://img.shields.io/badge/Vue-15664a?style=for-the-badge&logo=Vue.js&logoColor=white)  |
+| ![GDScript#](https://img.shields.io/badge/GDScript-4550b5?style=for-the-badge&logo=&logoColor=white)  | ![Unity XR](https://img.shields.io/badge/Unity_XR-ab8630?style=for-the-badge&logo=&logoColor=white) ![Meta XR](https://img.shields.io/badge/Meta_XR-2134c4?style=for-the-badge&logo=&logoColor=white)  |
 
 
-| ![C#](https://img.shields.io/badge/-239120?style=for-the-badge&logo=C&logoColor=white)![C#](https://img.shields.io/badge/sharp-239120?style=for-the-badge&logo=sharp&logoColor=white)  | Content Cell  |
 
-| ![GDScript](https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)  | Content Cell  |
+<!-- |![Custom Logo](https://global.discourse-cdn.com/business7/uploads/vuforia/original/1X/1bd39d7b17a9c4e9732ca6675abe1036462a368a.png) ![Vuforia](https://img.shields.io/badge/Vuforia-50C878?style=for-the-badge&logo=vuforia&logoColor=white)  | Content Cell  |
+
+
+<img src="https://img.shields.io/badge/Vuforia-50C878?style=for-the-badge&logo=vuforia&logoColor=white" alt="Custom Badge" style="display: inline-block;">
+<img src="https://global.discourse-cdn.com/business7/uploads/vuforia/original/1X/1bd39d7b17a9c4e9732ca6675abe1036462a368a.png" alt="Custom Logo" style="display: inline-block; width: 50px; height: 50px;">
+
+
+<img src="https://img.shields.io/badge/Custom_Badge-000000?style=for-the-badge" alt="Custom Badge" style="display: inline-block;">
+<img src="https://path-to-your-custom-logo-image.png" alt="Custom Logo" style="display: inline-block; width: 50px; height: 50px;">
+
+-->
 
 
 
