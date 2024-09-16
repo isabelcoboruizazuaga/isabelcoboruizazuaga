@@ -29,6 +29,12 @@ About what I do:
 - Python
 
 I’m always looking for new challenges and ways to grow, so feel free to connect or explore my repositories!
+| First Header  | Second Header |
+| ------------- | ------------- |
+| ![Unity](https://img.shields.io/badge/Unity-4E5F7D?style=for-the-badge&logo=unity&logoColor=white)  | Content Cell  |
+| Content Cell  | Content Cell  |
+
+
 
 <!-- Add the photos of the technologies or examples and redirect to itch.io -->
 
@@ -43,8 +49,9 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 📫 How to rea![unity](https://github.com/user-attachments/assets/d84b53b7-e730-4c7e-a261-d7843208f842)
+ch me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![unity](https://github.com/user-attachments/assets/6aa97a9a-2e19-419d-bfe2-3dc79943e3f4)
+![Uploading unity.svg…]()
