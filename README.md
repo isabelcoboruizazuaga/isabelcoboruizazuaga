@@ -25,16 +25,23 @@ I’m always looking for new challenges and ways to grow, so feel free to connec
 <details open>
 <summary> <h2>Featured videogame projects:</h2></summary>
 
-| GHOST HUNTERS| TERRAIN GENERATOR | VR ESCAPE ROOM | WANTED |
+| GHOST HUNTERS| TERRAIN GENERATOR | VR ESCAPE DUNGEON | WANTED |
 | ------------- | ------------- |  ------------- |  ------------- |
-| [<img src="Images/GhostHunters.png" width="300">](https://github.com/isabelcoboruizazuaga/GhostHunters)| [<img src="Images/TerrainGenerator.png" width="300">](https://github.com/isabelcoboruizazuaga/TerrainGenerator) |[<img src="https://via.placeholder.com/300" width="300">](https://github.com/isabelcoboruizazuaga) | [<img src="Images/Wanted.png" width="300">](https://github.com/isabelcoboruizazuaga/tagGame)  |
-| 3D <br> Character Controller <br> Game pause <br> Inventory and shop <br> Unity & C# | 3D <br> Terrain Painting <br> Terrain Generation <br> Unity & C# |  VR <br> Unity XR <br> Meta Integration <br> Unity & C# |  3D <br> AI $ Ai State Machines <br> NavMesh <br> Unity & C#  |
-| A small shooter game whose objective is to free a once peaceful village from the cute but dangerous ghosts that inhabit it now. <br>Destroy ghosts and use the money to buy weapons, bullets, and health items to see how long you can survive. | With this project you can generate different simple landscapes playing with terrain detail, seed and water height.<br>Try multiple settings to see how the terrain turns out |  ¡¡¡¡¡¡¡TEMPORARY PLACEHOLDER!!!! |  Small game about taging a NPC in a group of lookalikes. Find the wanted NPC and tag it before time ends!<br>There are 4 difficulty levels, try and get the max points in hell mode competying against time and crazy bumps of the one hundred NPCs. |
+| [<img src="Images/GhostHunters.png" width="400">](https://github.com/isabelcoboruizazuaga/GhostHunters)| [<img src="Images/TerrainGenerator.png" width="400">](https://github.com/isabelcoboruizazuaga/TerrainGenerator) |[<img src="Images/TituloEscapeDungeon.png" width="400">](https://github.com/isabelcoboruizazuaga/VREscapeDungeon) | [<img src="Images/Wanted.png" width="400">](https://github.com/isabelcoboruizazuaga/tagGame)  |
+| [![ITCH.IO](https://img.shields.io/badge/PLAY-FA5C5C?style=for-the-badge&logo=Itch.io&logoColor=white)](https://pulpinisa.itch.io/ghost-hunters) [![BaseCode](https://img.shields.io/badge/Code-23529e?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/isabelcoboruizazuaga/GhostHunters) | [![ITCH.IO](https://img.shields.io/badge/PLAY-FA5C5C?style=for-the-badge&logo=Itch.io&logoColor=white)](https://pulpinisa.itch.io/terrain-generator)  [![BaseCode](https://img.shields.io/badge/Code-23529e?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/isabelcoboruizazuaga/TerrainGenerator) |   [![ITCH.IO](https://img.shields.io/badge/PLAY-FA5C5C?style=for-the-badge&logo=Itch.io&logoColor=white)](https://pulpinisa.itch.io/escape-dungeon-vr) [![BaseCode](https://img.shields.io/badge/Code-23529e?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/isabelcoboruizazuaga/VREscapeDungeon)|  [![ITCH.IO](https://img.shields.io/badge/PLAY-FA5C5C?style=for-the-badge&logo=Itch.io&logoColor=white)](https://pulpinisa.itch.io/wanted) [![BaseCode](https://img.shields.io/badge/Code-23529e?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/isabelcoboruizazuaga/Wanted)|
+| 3D <br> Character Controller <br> Game pause <br> Inventory and shop <br> Unity & C# | 3D <br> Terrain Painting <br> Terrain Generation <br> Unity & C# |  VR <br> Unity XR <br> Meta Integration <br> Unity & C# |  3D <br> AI & Ai State Machines <br> NavMesh <br> Unity & C#  |
+| A small shooter game whose objective is to free a once peaceful village from the cute but dangerous ghosts that inhabit it now. <br>Destroy ghosts and use the money to buy weapons, bullets, and health items to see how long you can survive. | With this project you can generate different simple landscapes playing with terrain detail, seed and water height.<br>Try multiple settings to see how the terrain turns out |  Use a VR set to solve puzzles and advance between rooms to get out of a dungeon.<br>After being locked you will have to explore rooms and interact with props and objects to try and get out of this weird place. |  Small game about taging a NPC in a group of lookalikes. Find the wanted NPC and tag it before time ends!<br>There are 4 difficulty levels, try and get the max points in hell mode competying against time and crazy bumps of the one hundred NPCs. ||
 </details>
 
 <details open>
 <summary> <h2>Other projects:</h2></summary>
-  </details>
+  <!--
+| Project Name  | Project Image  | Description  |
+|---------------|----------------|--------------|
+| Project 1     | <img src="https://via.placeholder.com/150" width="250"> | This is a short description of project 1. |
+| Project 2     | <img src="https://via.placeholder.com/150" width="150"> | This is a short description of project 2. |
+  
+</details>
 <!--
 <details open>
 <summary>Game Description</summary>
