@@ -35,11 +35,18 @@ I’m always looking for new challenges and ways to grow, so feel free to connec
 
 <details open>
 <summary> <h2>Other projects:</h2></summary>
-  <!--
-| Project Name  | Project Image  | Description  |
-|---------------|----------------|--------------|
-| Project 1     | <img src="https://via.placeholder.com/150" width="250"> | This is a short description of project 1. |
-| Project 2     | <img src="https://via.placeholder.com/150" width="150"> | This is a short description of project 2. |
+  
+| Project Name  | Project Image  | Description  | Links  |
+|---------------|----------------|--------------|--------------|
+| A FOREST STORY    | [<img src="Images/AForestStory.png" width="150">](https://github.com/isabelcoboruizazuaga/AForestStory)| 2D<br> Sprite use <br> Basic enemy control <br> Unity & C#  |[![ITCH.IO](https://img.shields.io/badge/PLAY-FA5C5C?style=for-the-badge&logo=Itch.io&logoColor=white)](https://pulpinisa.itch.io/aforeststory) [![BaseCode](https://img.shields.io/badge/Code-23529e?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/isabelcoboruizazuaga/aforeststory) |
+| DUNGEON GENERATOR    | [<img src="Images/DungeonGenerator.png" width="150">](https://github.com/isabelcoboruizazuaga/GeneracionMazmorra)| 3d <br> Matrix use <br> Random generation <br> Unity & C#   |[![ITCH.IO](https://img.shields.io/badge/PLAY-FA5C5C?style=for-the-badge&logo=Itch.io&logoColor=white)](https://pulpinisa.itch.io/dungeon-generator) [![BaseCode](https://img.shields.io/badge/Code-23529e?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/isabelcoboruizazuaga/GeneracionMazmorra) |
+| ALL TAXI     | [<img src="Images/AllTaxi.png" width="150">](https://github.com/isabelcoboruizazuaga/AllTaxi)| 3D <br> Driving mechanics<br> Flying mechanics <br> Unity & C# |[![ITCH.IO](https://img.shields.io/badge/PLAY-FA5C5C?style=for-the-badge&logo=Itch.io&logoColor=white)](https://pulpinisa.itch.io/all-taxi) [![BaseCode](https://img.shields.io/badge/Code-23529e?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/isabelcoboruizazuaga/AllTaxi) |
+| MINESWEEPER  | [<img src="Images/Minesweeper.png" width="150">](https://github.com/isabelcoboruizazuaga/Minesweeper2D)| 2D <br> Matrix use <br> Random generation <br> Unity & C# |[![ITCH.IO](https://img.shields.io/badge/PLAY-FA5C5C?style=for-the-badge&logo=Itch.io&logoColor=white)](https://pulpinisa.itch.io/minesweeper) [![BaseCode](https://img.shields.io/badge/Code-23529e?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/isabelcoboruizazuaga/Minesweeper2D) |
+| ZOMBINATION  | [<img src="Images/Zombination.png" width="150">](https://github.com/isabelcoboruizazuaga/Zombination) | 3D <br> Character Controller <br> 3D Animations <br> Unity & C# | [![ITCH.IO](https://img.shields.io/badge/PLAY-FA5C5C?style=for-the-badge&logo=Itch.io&logoColor=white)](https://pulpinisa.itch.io/zombienation) [![BaseCode](https://img.shields.io/badge/Code-23529e?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/isabelcoboruizazuaga/Zombination)|
+| BOWLING VR  | [<img src="Images/TituloBowlingVR.png" width="150">](https://github.com/isabelcoboruizazuaga/BowlingVR)| VR <br> Unity XR <br> Meta integration <br> Unity & C# |[![ITCH.IO](https://img.shields.io/badge/PLAY-FA5C5C?style=for-the-badge&logo=Itch.io&logoColor=white)](https://pulpinisa.itch.io/bowling-vr) [![BaseCode](https://img.shields.io/badge/Code-23529e?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/isabelcoboruizazuaga/BowlingVR) |
+
+<!--
+| Project 2     | [<img src="Images/" width="150">](https://github.com/isabelcoboruizazuaga/)| Descr |[![ITCH.IO](https://img.shields.io/badge/PLAY-FA5C5C?style=for-the-badge&logo=Itch.io&logoColor=white)](https://pulpinisa.itch.io/wanted) [![BaseCode](https://img.shields.io/badge/Code-23529e?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/isabelcoboruizazuaga/Wanted) |-->
   
 </details>
 <!--
