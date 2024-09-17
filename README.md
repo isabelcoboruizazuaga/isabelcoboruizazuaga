@@ -33,7 +33,7 @@ I’m always looking for new challenges and ways to grow, so feel free to connec
 | A small shooter game whose objective is to free a once peaceful village from the cute but dangerous ghosts that inhabit it now. <br>Destroy ghosts and use the money to buy weapons, bullets, and health items to see how long you can survive. | With this project you can generate different simple landscapes playing with terrain detail, seed and water height.<br>Try multiple settings to see how the terrain turns out |  Use a VR set to solve puzzles and advance between rooms to get out of a dungeon.<br>After being locked you will have to explore rooms and interact with props and objects to try and get out of this weird place. |  Small game about taging a NPC in a group of lookalikes. Find the wanted NPC and tag it before time ends!<br>There are 4 difficulty levels, try and get the max points in hell mode competying against time and crazy bumps of the one hundred NPCs. ||
 </details>
 
-<details open>
+<details>
 <summary> <h2>Other projects:</h2></summary>
   
 | Project Name  | Project Image  | Description  | Links  |
