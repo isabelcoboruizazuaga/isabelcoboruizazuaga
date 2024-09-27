@@ -11,30 +11,50 @@ About what I do:
 
 ## Tech Stack:
 
+<div align="center">
+  
 | Game Development  | Augmented & Virtual Reality | Web Development | App Development |
 | ------------- | ------------- |  ------------- |  ------------- |
 | ![Unity](https://img.shields.io/badge/Unity-4E5F7D?style=for-the-badge&logo=unity&logoColor=white)   | ![Meta Quest](https://img.shields.io/badge/Meta_Quest-6C3483?style=for-the-badge&logo=oculus&logoColor=white) |![Angular](https://img.shields.io/badge/Angular-ba2326?style=for-the-badge&logo=Angular&logoColor=white)  ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white) ![Vue](https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white)  |  ![Android Studio](https://img.shields.io/badge/Android_Studio-125c33?style=for-the-badge&logo=AndroidStudio&logoColor=white) |
 | ![Godot](https://img.shields.io/badge/Godot-2E86C1?style=for-the-badge&logo=godot-engine&logoColor=white)  | ![Vuforia](https://img.shields.io/badge/Vuforia-50C878?style=for-the-badge&logo=vuforia&logoColor=white) |![JavaScript](https://img.shields.io/badge/JavaScript-66641d?style=for-the-badge&logo=JavaScript&logoColor=white)   ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white)  | ![Java](https://img.shields.io/badge/Java-ba3232?style=for-the-badge&logo=Java&logoColor=white)  |
 | ![C#](https://img.shields.io/badge/C%23-d66dcf?style=for-the-badge&logo=&logoColor=white)  | ![AR Foundation](https://img.shields.io/badge/AR_Foundation-ab3042?style=for-the-badge&logo=&logoColor=white) | ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white)  ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=white) | ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white) |
 | ![GDScript#](https://img.shields.io/badge/GDScript-4550b5?style=for-the-badge&logo=&logoColor=white)  | ![Unity XR](https://img.shields.io/badge/Unity_XR-ab8630?style=for-the-badge&logo=&logoColor=white) ![Meta XR](https://img.shields.io/badge/Meta_XR-2134c4?style=for-the-badge&logo=&logoColor=white)  |  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white) |   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)|
+</div>
 
 
-I’m always looking for new challenges and ways to grow, so feel free to connect or explore my repositories!
+**I’m always looking for new challenges and ways to grow, so feel free to connect or explore my repositories!**
+
+<div align="center">
+<a href="https://pulpinisa.itch.io/">
+  <img src="https://img.shields.io/badge/My_Itch.io-FA5C5C?style=for-the-badge&logo=Itch.io&logoColor=white" alt="Itch.io" height="50"/>
+</a>
+<a href="https://www.linkedin.com/in/isabel-cobo-ruiz-azuaga-8868ba32b">
+  <img src="https://img.shields.io/badge/My_LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn" height="50"/>
+</a>
+</div>
+
+
 
 
 <details open>
 <summary> <h2>Featured videogame projects:</h2></summary>
 
+<div align="center">
+  
 | GHOST HUNTERS| TERRAIN GENERATOR | VR ESCAPE DUNGEON | WANTED |
 | ------------- | ------------- |  ------------- |  ------------- |
 | [<img src="Images/GhostHunters.png" width="400">](https://github.com/isabelcoboruizazuaga/GhostHunters)| [<img src="Images/TerrainGenerator.png" width="400">](https://github.com/isabelcoboruizazuaga/TerrainGenerator) |[<img src="Images/TituloEscapeDungeon.png" width="400">](https://github.com/isabelcoboruizazuaga/VREscapeDungeon) | [<img src="Images/Wanted.png" width="400">](https://github.com/isabelcoboruizazuaga/tagGame)  |
 | [![ITCH.IO](https://img.shields.io/badge/PLAY-FA5C5C?style=for-the-badge&logo=Itch.io&logoColor=white)](https://pulpinisa.itch.io/ghost-hunters) [![BaseCode](https://img.shields.io/badge/Code-23529e?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/isabelcoboruizazuaga/GhostHunters) | [![ITCH.IO](https://img.shields.io/badge/PLAY-FA5C5C?style=for-the-badge&logo=Itch.io&logoColor=white)](https://pulpinisa.itch.io/terrain-generator)  [![BaseCode](https://img.shields.io/badge/Code-23529e?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/isabelcoboruizazuaga/TerrainGenerator) |   [![ITCH.IO](https://img.shields.io/badge/PLAY-FA5C5C?style=for-the-badge&logo=Itch.io&logoColor=white)](https://pulpinisa.itch.io/escape-dungeon-vr) [![BaseCode](https://img.shields.io/badge/Code-23529e?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/isabelcoboruizazuaga/VREscapeDungeon)|  [![ITCH.IO](https://img.shields.io/badge/PLAY-FA5C5C?style=for-the-badge&logo=Itch.io&logoColor=white)](https://pulpinisa.itch.io/wanted) [![BaseCode](https://img.shields.io/badge/Code-23529e?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/isabelcoboruizazuaga/Wanted)|
 | 3D <br> Character Controller <br> Game pause <br> Inventory and shop <br> Unity & C# | 3D <br> Terrain Painting <br> Terrain Generation <br> Unity & C# |  VR <br> Unity XR <br> Meta Integration <br> Unity & C# |  3D <br> AI & Ai State Machines <br> NavMesh <br> Unity & C#  |
 | A small shooter game whose objective is to free a once peaceful village from the cute but dangerous ghosts that inhabit it now. <br>Destroy ghosts and use the money to buy weapons, bullets, and health items to see how long you can survive. | With this project you can generate different simple landscapes playing with terrain detail, seed and water height.<br>Try multiple settings to see how the terrain turns out |  Use a VR set to solve puzzles and advance between rooms to get out of a dungeon.<br>After being locked you will have to explore rooms and interact with props and objects to try and get out of this weird place. |  Small game about taging a NPC in a group of lookalikes. Find the wanted NPC and tag it before time ends!<br>There are 4 difficulty levels, try and get the max points in hell mode competying against time and crazy bumps of the one hundred NPCs. ||
+
+</div>
 </details>
 
 <details>
 <summary> <h2>Other projects:</h2></summary>
+
+<div align="center">
   
 | Project Name  | Project Image  | Description  | Links  |
 |---------------|----------------|--------------|--------------|
@@ -45,6 +65,7 @@ I’m always looking for new challenges and ways to grow, so feel free to connec
 | ZOMBINATION  | [<img src="Images/Zombination.png" width="150">](https://github.com/isabelcoboruizazuaga/Zombination) | 3D <br> Character Controller <br> 3D Animations <br> Unity & C# | [![ITCH.IO](https://img.shields.io/badge/PLAY-FA5C5C?style=for-the-badge&logo=Itch.io&logoColor=white)](https://pulpinisa.itch.io/zombienation) [![BaseCode](https://img.shields.io/badge/Code-23529e?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/isabelcoboruizazuaga/Zombination)|
 | BOWLING VR  | [<img src="Images/TituloBowlingVR.png" width="150">](https://github.com/isabelcoboruizazuaga/BowlingVR)| VR <br> Unity XR <br> Meta integration <br> Unity & C# |[![ITCH.IO](https://img.shields.io/badge/PLAY-FA5C5C?style=for-the-badge&logo=Itch.io&logoColor=white)](https://pulpinisa.itch.io/bowling-vr) [![BaseCode](https://img.shields.io/badge/Code-23529e?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/isabelcoboruizazuaga/BowlingVR) |
 
+</div>
 <!--
 | Project 2     | [<img src="Images/" width="150">](https://github.com/isabelcoboruizazuaga/)| Descr |[![ITCH.IO](https://img.shields.io/badge/PLAY-FA5C5C?style=for-the-badge&logo=Itch.io&logoColor=white)](https://pulpinisa.itch.io/wanted) [![BaseCode](https://img.shields.io/badge/Code-23529e?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/isabelcoboruizazuaga/Wanted) |-->
   
